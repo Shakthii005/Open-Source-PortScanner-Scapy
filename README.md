@@ -1,4 +1,4 @@
-# TCP SYN Port Scanner (Scapy)
+#OPEN SOURCE MINI PROJECT TCP SYN Port Scanner (Scapy)
 
 This project is a lightweight TCP SYN port scanner built using [Scapy](https://scapy.readthedocs.io/en/latest/).  
 It detects **OPEN**, **CLOSED**, and **FILTERED** ports on alive hosts and logs the results into a file.  
