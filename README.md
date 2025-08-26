@@ -36,11 +36,11 @@ License
 This project is licensed under the MIT License
 
 You are free to use, modify, and distribute it under the same license.
-
-Contributing
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Contributing:
 
 Pull requests are welcome! If you’d like to add more features (e.g., UDP scanning, multi-threading, banner grabbing), feel free to fork and improve this project.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
 Disclaimer
 
