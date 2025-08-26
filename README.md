@@ -30,7 +30,11 @@ Root/Administrator privileges (required for raw packet operations)
 8.8.8.8
 3) Run the Scanner:
 sudo python3 port_scanner.py
+---------------------------------------------------------------------------------------------------------------------
+OUTPUT:
+<img width="534" height="698" alt="image" src="https://github.com/user-attachments/assets/d55218bc-8b33-46bd-9d41-359278a05cd7" />
 
+-------------------------------------------------------------------------------------------------------------------
 License
 
 This project is licensed under the MIT License
