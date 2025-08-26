@@ -16,11 +16,13 @@ It detects **OPEN**, **CLOSED**, and **FILTERED** ports on alive hosts and logs 
 Requirements:
 
 Python 3.8+
-Scapy
+
+Scapy(Library)
+
 Root/Administrator privileges (required for raw packet operations)
 
-Install requirements:
-1) pip install scapy
+1) Install requirements:
+ pip install scapy
 
 2) Add Hosts:(Edit alive_hosts.txt with one IP address per line)
 192.168.1.1
